@@ -1,0 +1,11 @@
+name,phone,email,city,gender
+John,9876543210,john@gmail.com,Mumbai,Male
+John,9876543210,john@gmail.com,Mumbai,Male
+Priya,12345,priya@gmail,Pune,Female
+Rahul,rahul@gmail.com,Nagpur,Male
+Sarah,9876543211,sarah@yahoo.com,Delhi,Female
+Mike,1234567890,mike@gmail,Delhi,Male
+Emma,9876543212,,,Female
+David,98765,david@hotmail.com,Chennai,Male
+Lisa,9876543213,lisa@gmail.com,Bangalore,Female
+Tom,9876543214,tom@outlook,Delhi,Male
